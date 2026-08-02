@@ -1,0 +1,51 @@
+body{
+      font-family: "Zen maru gothic", sans-serif;
+width: auto;
+height: auto;
+background: #0b111E;
+color: #dbe2ec;
+text-align: center;
+
+}
+.wallpapers img {
+width: 280px;
+height: auto;
+}
+
+header{
+width: auto;
+height: 65px;
+color:#121212;
+font-size: 40px;
+background-color:#E2E8F0;
+display: flex;
+justify-content: center;
+align-items: center;
+border-radius: 20px;
+}
+img{
+
+      margin: 45px;
+      border-radius: 10px;
+}
+
+h1{
+      font-size: 40px;
+      color:#E2E8F0;
+}
+main{
+      text-align: center;
+      gap: 20px;
+}
+footer{
+      width: auto;
+      height: auto;
+      background-color: #E2E8F0;
+      color:#121212;    
+      border-radius: 20px;
+      font-size: 20px;
+}
+footer img{
+      width:100px;
+      height:auto;
+}
